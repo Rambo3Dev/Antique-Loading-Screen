@@ -71,3 +71,27 @@ Rambo3Dev-loading-screen/
 │   └── song3.mp3
 └── logo/
     └── logo.png
+```
+
+# 🔗 Links
+
+[Visit my Tebex Store](https://rambo3dev-shop.tebex.io)
+
+[Join our Discord Server](https://discord.gg/sMawDztCVq)
+
+GitHub Repository: View the GitHub repository for this project
+
+# ⚙️ Customization Options
+Background: Replace images/background.jpg with your preferred image.
+Music: Replace the song1.mp3, song2.mp3, and song3.mp3 files in the song folder with your desired music.
+Server Information: Update the text and content in index.html to display your server rules, staff, and other important details.
+
+# 🛠️ Requirements
+FiveM Server: Ensure you have a running FiveM server to use this loading screen.
+Basic HTML/CSS Knowledge: For customization beyond the default setup, knowledge of HTML and CSS will help you make changes.
+
+# 🎉 Contribute
+Have ideas for improving the loading screen? Feel free to fork this repository, make your changes, and submit a pull request. All contributions are welcome!
+
+# 📧 Support
+If you encounter any issues or need assistance, please contact me via Discord: Rambo3Dev.
