@@ -2,6 +2,8 @@
 
 Welcome to the **Antique Loading Screen**! This loading screen combines a classic, vintage aesthetic with modern functionality, perfect for your FiveM server.
 
+![Antique Loading Screen](https://media.discordapp.net/attachments/1132179857384681509/1282498425115377674/Screenshot_250.png?ex=66e03bfc&is=66deea7c&hm=f7bfa597fe9d39e6e1ca7313978378945ddb01e0f458320590add36dbd03b063&=&format=webp&quality=lossless&width=1210&height=683)
+
 ## 🎨 Features
 - **Unique Antique Design**: A visually appealing loading screen with a vintage touch.
 - **Fully Responsive**: Works seamlessly on all screen sizes and devices.
